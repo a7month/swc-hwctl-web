@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="133"
+   name=""
+   committed-date="2013-11-01T04:53:12.290304Z"
+   url="svn://10.45.7.40:30000/swc-hwctl-web/trunk/src/com/igs/swc/hwctl/web/data"
+   last-author="mikewang"
+   kind="dir"
+   uuid="c18ddf49-f98f-4173-9529-5273d87822aa"
+   repos="svn://10.45.7.40:30000"
+   revision="138"/>
+<entry
+   committed-rev="74"
+   name="Util.java"
+   text-time="2013-10-29T08:27:46.406250Z"
+   committed-date="2013-10-28T08:57:11.242846Z"
+   checksum="dcf84e0a1d7a05eefd1340d96c06d060"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-29T08:27:46.406250Z"/>
+<entry
+   committed-rev="114"
+   name="OpResult.java"
+   text-time="2013-11-01T08:37:33.093750Z"
+   committed-date="2013-10-31T05:56:36.068784Z"
+   checksum="43dd77f1e1f4a7228bdc13aa5e76bfa9"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-11-01T08:37:33.093750Z"/>
+<entry
+   committed-rev="47"
+   name="Result.java"
+   text-time="2013-10-23T08:22:48.046875Z"
+   committed-date="2013-10-23T07:40:30.549631Z"
+   checksum="47f65dadfa02f9223c60315ae927c495"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-23T08:22:48.046875Z"/>
+</wc-entries>

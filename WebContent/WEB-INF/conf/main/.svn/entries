@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="41"
+   name=""
+   committed-date="2013-10-23T02:04:53.872615Z"
+   url="svn://10.45.7.40:30000/swc-hwctl-web/trunk/WebContent/WEB-INF/conf/main"
+   last-author="mikewang"
+   kind="dir"
+   uuid="c18ddf49-f98f-4173-9529-5273d87822aa"
+   repos="svn://10.45.7.40:30000"
+   revision="138"/>
+<entry
+   committed-rev="41"
+   name="app-config.xml"
+   text-time="2013-10-23T08:22:48.109375Z"
+   committed-date="2013-10-23T02:04:53.872615Z"
+   checksum="7a4f2d2da2f4eeff81a5891b84e4a207"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-23T08:22:48.109375Z"/>
+<entry
+   committed-rev="41"
+   name="modbus-cci.xml"
+   text-time="2013-10-23T08:22:48.109375Z"
+   committed-date="2013-10-23T02:04:53.872615Z"
+   checksum="a3ca7cca6e4b4c92ce62c7f7c5a46e4a"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-23T08:22:48.109375Z"/>
+<entry
+   committed-rev="17"
+   name="redis-server.xml"
+   text-time="2013-10-17T06:27:13.828125Z"
+   committed-date="2013-10-16T02:32:52.734377Z"
+   checksum="377d5376cd64e64c8eba604ab7530b79"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-17T06:27:13.828125Z"/>
+</wc-entries>

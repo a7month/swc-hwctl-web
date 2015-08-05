@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="76"
+   name=""
+   committed-date="2013-10-29T01:23:37.108545Z"
+   url="svn://10.45.7.40:30000/swc-hwctl-web/trunk/WebContent/WEB-INF/lib"
+   last-author="mikewang"
+   kind="dir"
+   uuid="c18ddf49-f98f-4173-9529-5273d87822aa"
+   repos="svn://10.45.7.40:30000"
+   revision="138"/>
+<entry
+   committed-rev="17"
+   name="spring-tx-4.0.0.M2.jar"
+   text-time="2013-10-17T06:27:14.390625Z"
+   committed-date="2013-10-16T02:32:52.734377Z"
+   checksum="dc9c6aed5883f946e9fca5652a74785b"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-17T06:27:13.859375Z"/>
+<entry
+   committed-rev="17"
+   name="spring-expression-4.0.0.M2.jar"
+   text-time="2013-10-17T06:27:14.390625Z"
+   committed-date="2013-10-16T02:32:52.734377Z"
+   checksum="82c6e5b36933b4a70af75aec1d4638c7"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-17T06:27:13.875000Z"/>
+<entry
+   committed-rev="17"
+   name="jackson-core-2.2.1.jar"
+   text-time="2013-10-17T06:27:14.406250Z"
+   committed-date="2013-10-16T02:32:52.734377Z"
+   checksum="37355053456435127b36c2c5bb95fa53"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-17T06:27:13.890625Z"/>
+<entry
+   committed-rev="17"
+   name="spring-oxm-4.0.0.M2.jar"
+   text-time="2013-10-17T06:27:14.406250Z"
+   committed-date="2013-10-16T02:32:52.734377Z"
+   checksum="855ecb1ef79746c888f642192341884d"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-17T06:27:13.890625Z"/>
+<entry
+   committed-rev="17"
+   name="jackson-annotations-2.2.3.jar"
+   text-time="2013-10-17T06:27:14.406250Z"
+   committed-date="2013-10-16T02:32:52.734377Z"
+   checksum="f7f09fe009c61b73514fb59efe957a1b"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-17T06:27:13.906250Z"/>
+<entry
+   committed-rev="17"
+   name="commons-pool-1.6.jar"
+   text-time="2013-10-17T06:27:14.406250Z"
+   committed-date="2013-10-16T02:32:52.734377Z"
+   checksum="5ca02245c829422176d23fa530e919cc"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-17T06:27:13.906250Z"/>
+<entry
+   committed-rev="41"
+   name="geronimo-j2ee-connector_1.6_spec-1.0.jar"
+   text-time="2013-10-23T08:22:48.187500Z"
+   committed-date="2013-10-23T02:04:53.872615Z"
+   checksum="f4add9eb4ff4b8c4d7591852e6d04e5f"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-23T08:22:48.171875Z"/>
+<entry
+   committed-rev="47"
+   name="jamod-1.2-SNAPSHOT.jar"
+   text-time="2013-10-23T08:22:48.203125Z"
+   committed-date="2013-10-23T07:40:30.549631Z"
+   checksum="833b75f5b3c2ceb7e937e2ebcb6663e8"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-23T08:22:48.187500Z"/>
+<entry
+   committed-rev="17"
+   name="spring-web-4.0.0.M2.jar"
+   text-time="2013-10-17T06:27:14.421875Z"
+   committed-date="2013-10-16T02:32:52.734377Z"
+   checksum="42930af5d62d990b9a9068303b90f393"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-17T06:27:13.968750Z"/>
+<entry
+   committed-rev="17"
+   name="spring-messaging-4.0.0.M2.jar"
+   text-time="2013-10-17T06:27:14.406250Z"
+   committed-date="2013-10-16T02:32:52.734377Z"
+   checksum="744d02554b083b159f692478c50109fd"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-17T06:27:13.921875Z"/>
+<entry
+   committed-rev="17"
+   name="jedis-2.1.0.jar"
+   text-time="2013-10-17T06:27:14.421875Z"
+   committed-date="2013-10-16T02:32:52.734377Z"
+   checksum="dfb67db412b1a9829d7ce573132ee2cb"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-17T06:27:14.062500Z"/>
+<entry
+   committed-rev="17"
+   name="jackson-databind-2.2.1.jar"
+   text-time="2013-10-17T06:27:14.421875Z"
+   committed-date="2013-10-16T02:32:52.734377Z"
+   checksum="8a7ee7d2bdb1336ae538fb4e76f7b6cb"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-17T06:27:14.046875Z"/>
+<entry
+   committed-rev="17"
+   name="spring-data-redis-1.1.0.RC1.jar"
+   text-time="2013-10-17T06:27:14.437500Z"
+   committed-date="2013-10-16T02:32:52.734377Z"
+   checksum="a54207c2e784fb4c5d64cfc068c5ae9f"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-17T06:27:14.109375Z"/>
+<entry
+   committed-rev="17"
+   name="commons-logging-1.0.3.jar"
+   text-time="2013-10-17T06:27:14.421875Z"
+   committed-date="2013-10-16T02:32:52.734377Z"
+   checksum="5bc8bdd15b18018e84fd862993aaca42"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-17T06:27:14.062500Z"/>
+<entry
+   committed-rev="17"
+   name="spring-webmvc-4.0.0.M2.jar"
+   text-time="2013-10-17T06:27:14.437500Z"
+   committed-date="2013-10-16T02:32:52.734377Z"
+   checksum="589d990421e1da4e07b398b029d552fb"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-17T06:27:14.171875Z"/>
+<entry
+   committed-rev="17"
+   name="spring-context-4.0.0.M2.jar"
+   text-time="2013-10-17T06:27:14.437500Z"
+   committed-date="2013-10-16T02:32:52.734377Z"
+   checksum="123ad5341c2c4bf4c635671c15914cad"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-17T06:27:14.250000Z"/>
+<entry
+   committed-rev="17"
+   name="spring-beans-4.0.0.M2.jar"
+   text-time="2013-10-17T06:27:14.453125Z"
+   committed-date="2013-10-16T02:32:52.734377Z"
+   checksum="488bc2c8385040ba8a8597cd0c15e6a7"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-17T06:27:14.312500Z"/>
+<entry
+   committed-rev="17"
+   name="spring-core-4.0.0.M2.jar"
+   text-time="2013-10-17T06:27:14.453125Z"
+   committed-date="2013-10-16T02:32:52.734377Z"
+   checksum="2952adc68b3b84505a46b5467832fd92"
+   last-author="mikewang"
+   kind="file"
+   prop-time="2013-10-17T06:27:14.390625Z"/>
+</wc-entries>
